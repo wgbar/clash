@@ -50,6 +50,10 @@ DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,kuaishou.cn
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,kwaidc.com
+DOMAIN-SUFFIX,kwaicdn.com
+DOMAIN-SUFFIX,kskwai.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
