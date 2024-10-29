@@ -46,6 +46,10 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,xiaoxintv.cc
 DOMAIN-SUFFIX,69yun.top
 DOMAIN-SUFFIX,nivodi.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,gifshow.com
+DOMAIN-SUFFIX,kwai.com
+DOMAIN-SUFFIX,kuaishou.cn
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
